@@ -1,0 +1,10 @@
+5. Problema dos 3 interruptores e 3 lâmpadas.
+
+Solução passo-a-passo:
+
+1. Ligue o primeiro interruptor e deixe ligado por alguns minutos (Deixaremos um tempo ligado pois irá gerar calor na lâmpada).
+2. Desligue o primeiro interruptor e ligue o segundo.
+3. Vá até a sala onde estão as lâmpadas.
+4. A lâmpada que estiver acesa é controlada pelo segundo interruptor.
+5. A lâmpada que estiver apagada porém quente será a controlada pelo primeiro interruptor que foi deixado ligado por alguns minutos.
+6. A lâmpada que estiver apagada e também fria será a controlada pelo terceiro e ultimo interruptor.
